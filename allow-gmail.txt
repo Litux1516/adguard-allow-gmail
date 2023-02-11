@@ -1,4 +1,4 @@
-# This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com^/nickspaargaren/no-google
+# This allow list helps to get access to GMail and some usefull google its domains. Contribute at https://github.com/nickspaargaren/no-google
 # Last updated: 2023-01-21
 # Mail
 
